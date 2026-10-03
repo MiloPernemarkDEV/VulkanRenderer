@@ -29,7 +29,7 @@ The renderer currently requires:
 
 * **Windows**
 * <strong>Vulkan SDK</strong> <a href="https://vulkan.lunarg.com/sdk/home" target="_blank" rel="noopener noreferrer">https://vulkan.lunarg.com/sdk/home</a>
-* A GPU with **Vulkan 1.3** and **hardware ray tracing** support
+* A GPU with **Vulkan 1.3** 
 * **CMake 3.23** or newer
 * A **C++20** compatible compiler
 * Any CMake-supported build generator
