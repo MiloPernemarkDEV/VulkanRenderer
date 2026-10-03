@@ -1,8 +1,8 @@
 # Vulkan Renderer
 
-A from-scratch real-time ray tracing renderer built with C++ and Vulkan.
+A from-scratch renderer built with C++ and Vulkan.
 
-The project is primarily a learning project focused on understanding Vulkan and GPU rendering at a low level, while gradually building a functional ray tracing renderer.
+The project is primarily a learning project focused on understanding Vulkan and GPU rendering at a low level, while gradually building a "functional" game engine.
 
 ## Current Progress
 
