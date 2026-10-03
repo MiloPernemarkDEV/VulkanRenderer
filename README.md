@@ -1,4 +1,4 @@
-# Vulkan Ray Tracing Renderer
+# Vulkan Renderer
 
 A from-scratch real-time ray tracing renderer built with C++ and Vulkan.
 
